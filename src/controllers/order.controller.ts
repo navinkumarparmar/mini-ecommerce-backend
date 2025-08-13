@@ -1,4 +1,3 @@
-// src/controllers/order.controller.ts
 import { Request, Response, NextFunction } from 'express';
 import Order from '../models/Order';
 import Product from '../models/Product';
