@@ -51,7 +51,8 @@ This is a minimal, secure, and scalable backend API for a small e-commerce platf
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/navinkumarparmar/mini-ecommerce-backend.git
+
 
 2. Navigate to the project directory:
    ```bash
